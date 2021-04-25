@@ -1,11 +1,8 @@
 #!/usr/bin/env python
 # ------------------------------------------------------------------------------------------------------%
-# Created by "Thieu Nguyen" at 08:58, 16/03/2020                                                        %
+# Originally created by "Thieu Nguyen" at 08:58, 16/03/2020                                             %
 #                                                                                                       %
-#       Email:      nguyenthieu2102@gmail.com                                                           %
-#       Homepage:   https://www.researchgate.net/profile/Thieu_Nguyen6                                  %
-#       Github:     https://github.com/thieu1995                                                  %
-# -------------------------------------------------------------------------------------------------------%
+# ------------------------------------------------------------------------------------------------------%
 
 from numpy import where, clip, logical_and, maximum, minimum, power, sin, abs, pi, sqrt, sign, ones, ptp, min, sum, array, ceil, multiply, mean
 from numpy.random import uniform, random, normal, choice
